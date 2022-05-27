@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irshit Mukherjee</h1>
-[main pic](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000)
+![main pic](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000)
 
 <h3 align="center">A passionate Full stack developer from India.</h3>
 
