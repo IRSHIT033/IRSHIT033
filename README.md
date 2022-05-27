@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irshit Mukherjee</h1>
+[main pic](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000)
+
 <h3 align="center">A passionate Full stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshit033&label=Profile%20views&color=0e75b6&style=flat" alt="irshit033" /> </p>
