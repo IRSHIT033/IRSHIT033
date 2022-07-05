@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irshit Mukherjee</h1>
 
-  [url]https://seupload.com/EIE/videoplayback_(online-video-cutter.com).mp4[/url]
+<img src="./dev.jpg"  />
 
 
 <h3 align="center">A passionate Full stack developer from India.</h3>
