@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [Rythm , A music streaming app where everyone can listen to their fav songs in a group.](https://github.com/IRSHIT033/Rythm)
+- 🔭 I’m currently working on [microservices in go by building a e-commerce app server ](https://github.com/IRSHIT033/E-comm-GO-/)
 
 - 📫 How to reach me **mukherjeeirshit50@gmail.com**
 
