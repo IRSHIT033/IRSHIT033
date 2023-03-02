@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irshit Mukherjee</h1>
 
-<img src="./dev.jpg"  />
+<img src="Untitled design (3).png"  />
 
 
 <h3 align="center">A passionate Full stack developer from India.</h3>
