@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **Enthusiast to Learn Anything.**
 
+- 📝 I write technical blogs here - [hashnode link](https://irshitmukherjee55.hashnode.dev/) , [dev.to](https://dev.to/irshit033)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/irshit mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irshit mukherjee" height="30" width="40" /></a>
