@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Irshit Mukherjee</h1> 
-<img src="Untitled design (3).png"  />
 # 💫 About Me:
 🔭 I’m currently working on MIcroservices architecture in Golang <br>
 
